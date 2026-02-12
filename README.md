@@ -37,17 +37,13 @@ Movie-Recommender-System/
 ├── README.md
 
 ## ▶️ Installation & Usage
-
-1. Clone the repository:
-git clone https://github.com/your-username/movie-recommender-system.git
-
-2. Install required libraries:
+1. Install required libraries:
 pip install -r requirements.txt
 
-3. Run the Jupyter Notebook:
+2. Run the Jupyter Notebook:
 jupyter notebook
 
-4. Enter a movie name to get recommendations.
+3. Enter a movie name to get recommendations.
 
 ## 💡 Example
 
@@ -67,6 +63,6 @@ Star Trek
 
 ## 📚 Learning Outcomes
 - Understanding of recommendation systems
-- Feature engineering and NLP basics
+- Feature engineering 
 - Cosine similarity implementation
 - Practical application of Machine Learning concepts
